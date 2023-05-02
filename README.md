@@ -1,4 +1,4 @@
-# SimpleAnimation
+# RotatingSquare
 
 Rotating square.
 A program with simple animation. OpenGL, GLUT.
