@@ -3,6 +3,9 @@
 Rotating square.
 A program with simple animation. OpenGL, GLUT.
 
+## Usage
+- To enable/disable rotation, click on the left mouse button.
+
 ## Single buffered animation
 
 - `$>make SimpleAnimationSingleBuf`
