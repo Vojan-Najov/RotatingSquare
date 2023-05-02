@@ -1,4 +1,6 @@
 # SimpleAnimation
+
+Rotating square.
 A program with simple animation. OpenGL, GLUT.
 
 ## Single buffered animation
